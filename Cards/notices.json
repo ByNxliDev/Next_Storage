@@ -1,8 +1,6 @@
 [
     {
         "notices": Test text,
-        "imgUrl: "UrlsImage",
-        "enableImg": true,
         "enableText": true
       }
 ]
