@@ -1,6 +1,6 @@
 [
     {
         "notices": "Test text",
-        "enableText": true
+        "enableText": false
     }
 ]
