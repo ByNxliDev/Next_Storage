@@ -39,6 +39,20 @@
         "resourceLink": "1KVrud92HqgHmvbfBVDcMwtvqRbNhoP2T",
         "resourcePage": "https://create.roblox.com/store/asset/86055835895975/Dreams-Pixel",
         "resourceImages": "https://naxawave.github.io/Next_Storage/imageResources/thumbnail_sound.png"
+      },
+
+    {
+        "id": 000004,
+        "resourceName": "No collide",
+        "resourceDescription": "Un script que permite que entre jugadores se atraviezen estre si, desactivando las colisiones.",
+        "resourceAuthor": "@MrJump323",
+        "enabled": true,
+        "resourceType": "model",
+        "resourceDate": "25/06/2025",
+        "tags": ["Game", "Script"],
+        "resourceLink": "1iZKGHFrzkxOM7CXiiqRpzhVY78DVBzUi",
+        "resourcePage": "https://create.roblox.com/store/asset/10434883527/NoCollide",
+        "resourceImages": "https://naxawave.github.io/Next_Storage/imageResources/thumbnail_script.png"
       }
 ]
   
